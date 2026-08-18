@@ -1,0 +1,39 @@
+{
+  "name": "pi-terseness",
+  "version": "0.1.0",
+  "description": "A Pi extension that makes agent responses concise by default.",
+  "license": "MIT",
+  "author": "Ben Kreeger <ben@kree.gr>",
+  "type": "module",
+  "keywords": [
+    "pi-package",
+    "pi-extension",
+    "pi",
+    "terseness",
+    "concise"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.kree.gr/kreeger/pi-terseness.git"
+  },
+  "bugs": {
+    "url": "https://git.kree.gr/kreeger/pi-terseness/issues"
+  },
+  "homepage": "https://git.kree.gr/kreeger/pi-terseness",
+  "files": [
+    "extensions",
+    "README.md",
+    "LICENSE"
+  ],
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "engines": {
+    "node": ">=22.19.0"
+  }
+}
