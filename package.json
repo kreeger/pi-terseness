@@ -30,8 +30,15 @@
       "./extensions"
     ]
   },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
   "peerDependencies": {
     "@earendil-works/pi-coding-agent": "*"
+  },
+  "devDependencies": {
+    "@earendil-works/pi-coding-agent": "^0.84.2",
+    "typescript": "^5.9.3"
   },
   "engines": {
     "node": ">=22.19.0"
