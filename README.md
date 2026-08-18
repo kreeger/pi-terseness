@@ -1,6 +1,6 @@
 # Pi Terseness
 
-A [Pi](https://pi.dev) extension that makes agent responses concise by default. It prepends terse-response guidance to Pi's system prompt at the start of each session.
+A [Pi](https://pi.dev) extension that makes agent responses concise by default. It prepends terse-response guidance to Pi's system prompt at the start of each session. It's based on the popular "caveman" skill, but modified to add in articles and more for readability.
 
 ## Install
 
