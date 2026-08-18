@@ -14,12 +14,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://git.kree.gr/kreeger/pi-terseness.git"
+    "url": "git+https://github.com/kreeger/pi-terseness.git"
   },
   "bugs": {
-    "url": "https://git.kree.gr/kreeger/pi-terseness/issues"
+    "url": "https://github.com/kreeger/pi-terseness/issues"
   },
-  "homepage": "https://git.kree.gr/kreeger/pi-terseness",
+  "homepage": "https://github.com/kreeger/pi-terseness#readme",
   "files": [
     "extensions",
     "README.md",

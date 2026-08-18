@@ -7,16 +7,16 @@ A [Pi](https://pi.dev) extension that makes agent responses concise by default. 
 Install directly from this repository:
 
 ```sh
-pi install https://git.kree.gr/kreeger/pi-terseness.git
+pi install https://github.com/kreeger/pi-terseness.git
 ```
 
 For a project-local installation, add `-l`:
 
 ```sh
-pi install -l https://git.kree.gr/kreeger/pi-terseness.git
+pi install -l https://github.com/kreeger/pi-terseness.git
 ```
 
-Restart Pi after installation. Use `pi config` to enable or disable the extension, or `pi remove https://git.kree.gr/kreeger/pi-terseness.git` to uninstall it.
+Restart Pi after installation. Use `pi config` to enable or disable the extension, or `pi remove https://github.com/kreeger/pi-terseness.git` to uninstall it.
 
 ## Behavior
 
